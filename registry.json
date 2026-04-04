@@ -1,21 +1,21 @@
 [
     {
         "id": "icon-lab",
-        "name": "Thợ Sơn Icon (Icon Lab)",
-        "description": "Nhuộm màu Thư mục. Một công cụ giải trí miễn phí để mồi khách, dẫn lối họ trải nghiệm quy trình Mở Rộng.",
+        "name": "Icon Lab",
+        "description": "A free tool to customize your folder colors.",
         "version": "1.0.0",
         "is_free": true,
-        "price_text": "Miễn Phí",
+        "price_text": "Free",
         "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/icon-lab.png",
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/icon-lab.zip"
     },
     {
         "id": "web-scraper",
-        "name": "Bạch Tuộc Hút Web (Scraper)",
-        "description": "Vũ khí Bán Lẻ Căng Bậc Nhất! Cào toàn bộ dữ liệu, bài viết trên Website tự rớt xuống Máy tính của bạn.",
+        "name": "Web Scraper",
+        "description": "Advanced scraper to automatically download articles and images from the web.",
         "version": "1.0.0",
         "is_free": false,
-        "price_text": "$9.99 (DLC)",
+        "price_text": "$9.99",
         "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/web-scraper.png",
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/web-scraper.zip"
     }
