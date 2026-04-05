@@ -19,5 +19,14 @@
         "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/web-scraper.png",
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/web-scraper.zip",
         "is_hidden": true
+    },
+    {
+        "id": "vux-playground",
+        "name": "Dev Playground",
+        "description": "Môi trường Sandbox cho Lập Trình Viên. Chép đè Code của bạn để chạy thử nghiệm.",
+        "version": "1.0.0",
+        "is_free": true,
+        "price_text": "Dev Tool",
+        "download_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/vux-playground.zip"
     }
 ]

@@ -1,0 +1,7 @@
+{
+  "id": "vux-playground",
+  "name": "Dev Playground",
+  "version": "1.0.0",
+  "description": "Môi trường giả lập cho Lập Trình Viên. Chép đè mã nguồn của bạn vào thư mục này trong %LOCALAPPDATA%/vuxhub/extensions để Test nghiệm.",
+  "main": "index.html"
+}

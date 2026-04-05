@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>VuxHub Dev Playground</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 40px; background: #0f0f13; color: #00ff66; text-align: center; display: flex; align-items: center; justify-content: center; min-height: 80vh; margin: 0; }
+        .box { border: 2px dashed #00ff66; padding: 40px; border-radius: 12px; display: inline-block; max-width: 600px; line-height: 1.6; background: rgba(0, 255, 102, 0.05); }
+        h1 { margin-top: 0; color: #fff; }
+        .path { color: #fff; background: #1a1a24; padding: 12px; border-radius: 6px; font-family: monospace; letter-spacing: 1px; font-size: 15px; margin: 20px 0; border: 1px solid #333; }
+        button { margin-top: 20px; padding: 12px 24px; font-weight: bold; background: #00ff66; color: #000; border: none; border-radius: 6px; cursor:pointer; font-size: 14px; transition: 0.2s; }
+        button:hover { background: #00cc52; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>🛠️ VuxHub Developer Playground</h1>
+        <p>Chào mừng bạn đến với Môi trường Thử nghiệm VuxHub!</p>
+        <p>Ứng dụng này đang được load nội bộ từ đường dẫn tĩnh bên dưới:</p>
+        <div class="path">%LOCALAPPDATA%\vuxhub\extensions\vux-playground</div>
+        
+        <p>👉 <strong>HƯỚNG DẪN TEST/MOD EXTENSION CỦA BẠN:</strong><br>
+        1. Mở thư mục vật lý phía trên trong Máy tính của bạn.<br>
+        2. Chép đè Mã Nguồn của bạn <i>(React Build, Vue, HTML, WASM...)</i> đè lên file này.<br>
+        3. Sử dụng API qua cổng <code>http://127.0.0.1:2121/api/</code> để thao tác với VFS của VuxHub.</p>
+        
+        <button onclick="location.reload()">🔄 Làm Mới & Tải Lại Code F5</button>
+    </div>
+</body>
+</html>
