@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "id": "icon-lab",
         "name": "Icon Lab",
@@ -23,7 +23,7 @@
     {
         "id": "vux-playground",
         "name": "Dev Playground",
-        "description": "Môi trường Sandbox cho Lập Trình Viên.",
+        "description": "Developer Sandbox Environment. Overwrite source code in %LOCALAPPDATA%/vuxhub/extensions/vux-playground for testing.",
         "version": "1.0.0",
         "is_free": true,
         "price_text": "Dev Tool",
