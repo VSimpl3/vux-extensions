@@ -23,7 +23,7 @@
     {
         "id": "vux-playground",
         "name": "Dev Playground",
-        "description": "Developer Sandbox Environment. Overwrite source code in %LOCALAPPDATA%/vuxhub/extensions/vux-playground for testing.",
+        "description": "Sandbox environment for extension developers.",
         "version": "1.0.0",
         "is_free": true,
         "price_text": "Dev Tool",
@@ -33,7 +33,7 @@
     {
         "id": "agent",
         "name": "Agent OS",
-        "description": "Nền tảng Trí tuệ Nhân tạo Cục bộ với khả năng học sâu và tác vụ nội tại.",
+        "description": "Local AI Agent for system tasks and code assistance.",
         "version": "1.0.0",
         "is_free": true,
         "price_text": "Free",
