@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "id": "icon-lab",
         "name": "Icon Lab",
@@ -15,7 +15,7 @@
         "description": "Download web data and media.",
         "version": "1.0.0",
         "is_free": false,
-        "price_text": "$9.99",
+        "price_text": ".99",
         "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/web-scraper.png",
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/web-scraper.zip",
         "is_hidden": true
@@ -23,7 +23,7 @@
     {
         "id": "vux-playground",
         "name": "Dev Playground",
-        "description": "Môi trường Sandbox cho Lập Trình Viên. Chép đè Code của bạn vào tệp index.html để chạy thử nghiệm các tính năng mở rộng.",
+        "description": "Môi trường Sandbox cho Lập Trình Viên.",
         "version": "1.0.0",
         "is_free": true,
         "price_text": "Dev Tool",
