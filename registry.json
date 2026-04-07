@@ -1,26 +1,5 @@
 [
     {
-        "id": "icon-lab",
-        "name": "Icon Lab",
-        "description": "Customize folder colors.",
-        "version": "1.0.0",
-        "is_free": true,
-        "price_text": "Free",
-        "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/icon-lab.png",
-        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/icon-lab.zip"
-    },
-    {
-        "id": "web-scraper",
-        "name": "Web Scraper",
-        "description": "Download web data and media.",
-        "version": "1.0.0",
-        "is_free": false,
-        "price_text": ".99",
-        "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/web-scraper.png",
-        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/web-scraper.zip",
-        "is_hidden": true
-    },
-    {
         "id": "vux-playground",
         "name": "Dev Playground",
         "description": "Sandbox environment for extension developers.",
