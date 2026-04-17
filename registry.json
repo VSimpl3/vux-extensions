@@ -34,5 +34,18 @@
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.zip",
         "developer": "VuxHub",
         "is_hidden": true
+    },
+    {
+        "id": "chaos-view",
+        "name": "Chaos View",
+        "version": "1.0.0",
+        "description": "Kính Vạn Hoa Hệ Đại Thiên Hà - Quan sát toàn cảnh thư mục dưới mô hình Vĩ trụ Không gian ảo.",
+        "main": "bundle.vex",
+        "icon": "Globe",
+        "developer": "VuxHub",
+        "is_free": true,
+        "plugin_type": "view_mode",
+        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/chaos-view.zip",
+        "is_hidden": false
     }
 ]
