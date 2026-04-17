@@ -5,8 +5,8 @@
         "description": "Sandbox environment for extension developers.",
         "version": "1.0.0",
         "is_free": true,
-        "price_text": "Dev Tool",
-        "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/icon-lab.png",
+        "price_text": "Free",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/code.svg",
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/dev-playground.zip",
         "developer": "VuxHub",
         "is_hidden": false
@@ -14,11 +14,11 @@
     {
         "id": "agent",
         "name": "Agent OS",
-        "description": "Local AI Agent for system tasks and code assistance.",
+        "description": "Local AI System Assistant.",
         "version": "1.0.0",
         "is_free": false,
         "price_text": "$19",
-        "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/icon-lab.png",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/bot.svg",
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/agent.zip",
         "developer": "VuxHub",
         "is_hidden": true
@@ -26,11 +26,11 @@
     {
         "id": "duplicate-finder",
         "name": "Duplicate Finder",
-        "description": "Scan and remove duplicate files based on name, size, or hash content.",
+        "description": "Hash-based duplicate file scanner.",
         "version": "1.0.0",
         "is_free": true,
         "price_text": "Free",
-        "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/icon-lab.png",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/copy.svg",
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.zip",
         "developer": "VuxHub",
         "is_hidden": true
@@ -39,13 +39,87 @@
         "id": "chaos-view",
         "name": "Chaos View",
         "version": "1.0.0",
-        "description": "Kính Vạn Hoa Hệ Đại Thiên Hà - Quan sát toàn cảnh thư mục dưới mô hình Vĩ trụ Không gian ảo.",
+        "description": "3D layout engine for immersive folder visualization.",
         "main": "bundle.vex",
         "icon": "Globe",
         "developer": "VuxHub",
         "is_free": true,
         "plugin_type": "view_mode",
         "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/chaos-view.zip",
-        "is_hidden": false
+        "is_hidden": false,
+        "price_text": "Free",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/globe.svg"
+    },
+    {
+        "id": "batch-rename",
+        "is_hidden": true,
+        "name": "Batch Rename",
+        "description": "Smart bulk file renaming engine.",
+        "version": "1.0.0",
+        "is_free": true,
+        "price_text": "Free",
+        "developer": "VuxHub",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/tag.svg",
+        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/batch-rename.zip"
+    },
+    {
+        "id": "global-share",
+        "is_hidden": true,
+        "name": "Global Internet Bridge",
+        "description": "Secure P2P tunnel for LAN network sharing.",
+        "version": "1.0.0",
+        "is_free": false,
+        "price_text": "$8",
+        "developer": "VuxHub",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/globe.svg",
+        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/global-share.zip"
+    },
+    {
+        "id": "image-converter",
+        "is_hidden": true,
+        "name": "Image Converter",
+        "description": "WebAssembly-powered local image converter.",
+        "version": "1.0.0",
+        "is_free": true,
+        "price_text": "Free",
+        "developer": "VuxHub",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/images.svg",
+        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/image-converter.zip"
+    },
+    {
+        "id": "md-viewer-beta",
+        "is_hidden": true,
+        "name": "Live MD Preview",
+        "description": "Live Markdown previewer.",
+        "version": "1.0.0",
+        "is_free": true,
+        "price_text": "Free",
+        "developer": "VuxHub",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/file-text.svg",
+        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/md-viewer-beta.zip"
+    },
+    {
+        "id": "sky-downloader",
+        "is_hidden": true,
+        "name": "3DSky Preview Downloader",
+        "description": "Automated 3DSky preview image fetcher.",
+        "version": "1.0.0",
+        "is_free": true,
+        "price_text": "Free",
+        "developer": "VuxHub",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/image.svg",
+        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/sky-downloader.zip"
+    },
+    {
+        "id": "smart-extract",
+        "is_hidden": true,
+        "name": "Smart Extract",
+        "description": "Bulk extraction tool via WASI Sandbox.",
+        "version": "1.0.0",
+        "is_free": false,
+        "price_text": "$15",
+        "developer": "VuxHub",
+        "icon_url": "https://unpkg.com/lucide-static@0.414.0/icons/archive.svg",
+        "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/smart-extract.zip"
     }
 ]
