@@ -9,7 +9,8 @@
         "icon_url":  "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/icon-lab.png",
         "download_url":  "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/dev-playground.zip",
         "developer":  "VuxHub",
-        "is_hidden":  false
+        "is_hidden":  false,
+        "plugin_type":  "tool"
     },
     {
         "id":  "duplicate-finder",
@@ -21,7 +22,8 @@
         "icon_url":  "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/icon-lab.png",
         "download_url":  "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.zip",
         "developer":  "VuxHub",
-        "is_hidden":  true
+        "is_hidden":  true,
+        "plugin_type":  "tool"
     },
     {
         "id":  "chaos-view",
