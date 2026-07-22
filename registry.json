@@ -11,7 +11,7 @@
     "default_width": 360,
     "default_height": 520,
     "resizable": true,
-    "icon_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/smart-extract.svg",
+    "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/smart-extract.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/smart-extract.zip"
   },
   {
@@ -27,7 +27,7 @@
     "default_height": 520,
     "resizable": true,
     "supports_background_mode": false,
-    "icon_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.svg",
+    "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/duplicate-finder.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.zip"
   },
   {
@@ -42,7 +42,7 @@
     "default_width": 340,
     "default_height": 440,
     "resizable": true,
-    "icon_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/image-converter.svg",
+    "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/image-converter.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/image-converter.zip"
   },
   {
@@ -57,7 +57,7 @@
     "default_width": 500,
     "default_height": 520,
     "resizable": true,
-    "icon_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/batch-rename.svg",
+    "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/batch-rename.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/batch-rename.zip"
   },
   {
@@ -73,7 +73,7 @@
     "default_height": 520,
     "resizable": true,
     "supports_background_mode": true,
-    "icon_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/sky-downloader.svg",
+    "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/sky-downloader.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/sky-downloader.zip"
   }
 ]
