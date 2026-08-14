@@ -22,7 +22,7 @@
     "developer": "VuxHub",
     "is_free": true,
     "plugin_type": "tool",
-    "is_hidden": true,
+    "is_hidden": false,
     "default_width": 640,
     "default_height": 520,
     "resizable": true,
