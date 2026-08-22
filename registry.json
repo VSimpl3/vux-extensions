@@ -6,7 +6,6 @@
     "description": "Bulk extraction tool via WASI Sandbox (Refactored UI).",
     "developer": "VuxHub",
     "plugin_type": "tool",
-    "is_hidden": false,
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/smart-extract.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/smart-extract.zip"
   },
@@ -17,7 +16,6 @@
     "description": "Hash-based duplicate file scanner.",
     "developer": "VuxHub",
     "plugin_type": "tool",
-    "is_hidden": false,
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/duplicate-finder.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.zip"
   },
@@ -29,7 +27,6 @@
     "developer": "VuxHub",
     "plugin_type": "tool",
     "display": "popup",
-    "is_hidden": false,
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/image-converter.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/image-converter.zip"
   },
@@ -40,7 +37,6 @@
     "description": "Smart bulk file renaming engine.",
     "developer": "VuxHub",
     "plugin_type": "tool",
-    "is_hidden": false,
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/batch-rename.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/batch-rename.zip"
   },
@@ -52,7 +48,6 @@
     "developer": "VuxHub",
     "plugin_type": "tool",
     "display": "popup",
-    "is_hidden": false,
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/sky-downloader.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/sky-downloader.zip"
   }
