@@ -6,6 +6,17 @@
     "description": "Bulk extraction tool via WASI Sandbox (Refactored UI).",
     "developer": "VuxHub",
     "plugin_type": "tool",
+    "display": "window",
+    "inputs": [
+      "zip",
+      "rar",
+      "7z",
+      "tar",
+      "gz"
+    ],
+    "outputs": [
+      "folder"
+    ],
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/smart-extract.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/smart-extract.zip"
   },
@@ -16,6 +27,7 @@
     "description": "Hash-based duplicate file scanner.",
     "developer": "VuxHub",
     "plugin_type": "tool",
+    "display": "window",
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/duplicate-finder.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.zip"
   },
@@ -27,6 +39,21 @@
     "developer": "VuxHub",
     "plugin_type": "tool",
     "display": "popup",
+    "inputs": [
+      "png",
+      "jpg",
+      "jpeg",
+      "webp",
+      "bmp",
+      "tiff",
+      "svg"
+    ],
+    "outputs": [
+      "webp",
+      "jpeg",
+      "png",
+      "jpg"
+    ],
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/image-converter.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/image-converter.zip"
   },
@@ -37,18 +64,14 @@
     "description": "Smart bulk file renaming engine.",
     "developer": "VuxHub",
     "plugin_type": "tool",
+    "display": "window",
+    "inputs": [
+      "*"
+    ],
+    "outputs": [
+      "*"
+    ],
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/batch-rename.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/batch-rename.zip"
-  },
-  {
-    "id": "sky-downloader",
-    "name": "3DSky Downloader",
-    "version": "1.0.0",
-    "description": "Automated 3DSky preview image fetcher.",
-    "developer": "VuxHub",
-    "plugin_type": "tool",
-    "display": "popup",
-    "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/sky-downloader.svg",
-    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/sky-downloader.zip"
   }
 ]
