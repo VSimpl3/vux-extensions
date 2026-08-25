@@ -73,30 +73,5 @@
     ],
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/batch-rename.svg",
     "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/batch-rename.zip"
-  },
-  {
-    "id": "sky-downloader",
-    "name": "3DSky Downloader",
-    "version": "1.0.1",
-    "description": "Automated 3DSky preview image fetcher.",
-    "developer": "VuxHub",
-    "plugin_type": "tool",
-    "display": "window",
-    "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/sky-downloader.svg",
-    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/sky-downloader.zip",
-    "inputs": [
-      "max",
-      "skp",
-      "fbx",
-      "obj",
-      "3ds",
-      "zip",
-      "rar",
-      "blend",
-      "c4d"
-    ],
-    "outputs": [
-      "jpeg"
-    ]
   }
 ]
