@@ -18,7 +18,7 @@
       "folder"
     ],
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/smart-extract.svg",
-    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/smart-extract.zip"
+    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/smart-extract.vex"
   },
   {
     "id": "duplicate-finder",
@@ -29,7 +29,7 @@
     "plugin_type": "tool",
     "display": "window",
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/duplicate-finder.svg",
-    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.zip"
+    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/duplicate-finder.vex"
   },
   {
     "id": "image-converter",
@@ -55,7 +55,7 @@
       "jpg"
     ],
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/image-converter.svg",
-    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/image-converter.zip"
+    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/image-converter.vex"
   },
   {
     "id": "batch-rename",
@@ -72,6 +72,6 @@
       "*"
     ],
     "icon_url": "https://raw.githubusercontent.com/VSimpl3/vux-extensions/main/assets/batch-rename.svg",
-    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/batch-rename.zip"
+    "download_url": "https://github.com/VSimpl3/vux-extensions/releases/download/v1.0.0/batch-rename.vex"
   }
 ]
